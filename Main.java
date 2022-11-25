@@ -3,7 +3,7 @@ import java.util.*;
 import javax.swing.*;
 import java.awt.event.*;
 
-public class main {
+public class Main {
 
     public static void main(String[] args) {
         int width = 1000;
